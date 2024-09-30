@@ -1,6 +1,3 @@
-# Writing the README content to a .md file
-
-readme_content = """
 # DATA 601: Applied Machine Learning -
 
 Welcome to the **DATA 601: Applied Machine Learning** course repository! This repository serves as the main resource for all lab assignments, lecture materials, PDFs, and code examples for the semester. Make sure to check this repository regularly for updates and new materials.
@@ -28,7 +25,7 @@ Welcome to the **DATA 601: Applied Machine Learning** course repository! This re
 **Location**: ISC 3291  
 **Office Hours**: Mondays, 8:00 AM – 10:00 AM, or by appointment  
 **Email**: [twford@wm.edu](mailto:twford@wm.edu)  
-**Course Page**: [Blackboard Link](https://blackboard.wm.edu/ultra/courses/_32038_1)  
+**Course Page**: [Blackboard Link](https://blackboard.wm.edu/ultra/courses/_32038_1/outline)
 
 **Course Description**:
 
@@ -96,9 +93,9 @@ Detailed project guidelines and rubrics are available in the [final-project](fin
 
 ## Important Links
 
-- **Blackboard**: [Course Page](https://blackboard.wm.edu/ultra/courses/_32038_1)
+- **Blackboard**: [Course Page](https://blackboard.wm.edu/ultra/courses/_32038_1/outline)
 - **Piazza for Q&A**: [Piazza Link](https://piazza.com/wm/fall2024/data601/home)
-- **SciClone Account Registration**: [HPC Access](https://hpc.wm.edu/acctreq/)
+- **SciClone Account Registration**: [HPC Access]([https://hpc.wm.edu/acctreq/](https://d8a-science.github.io/hpc-gitbook/logging-in-and-setting-up-your-hpc-account/create.html)
 
 ---
 
@@ -107,4 +104,4 @@ Detailed project guidelines and rubrics are available in the [final-project](fin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/DATA_601.git
+git clone https://github.com/D8A-SCIENCE/DATA_601.git
