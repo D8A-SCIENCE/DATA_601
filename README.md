@@ -53,14 +53,6 @@ The emphasis will be on the practical coding and implementation of these algorit
 
 Weekly labs are optional but highly encouraged to supplement your understanding of course topics. These labs include quizzes and exercises focused on implementing algorithms discussed during lectures.
 
-| Lab Number | Topic                         | Due Date       | Link               |
-|------------|-------------------------------|----------------|--------------------|
-| Lab 1      | Intro to HPC & Linux Basics   | September 5    | [Lab 1 Materials](labs/lab1/) |
-| Lab 2      | Data Processing Techniques    | September 12   | [Lab 2 Materials](labs/lab2/) |
-| Lab 3      | Linear Regression & SVR       | September 19   | [Lab 3 Materials](labs/lab3/) |
-| Lab 4      | Decision Trees and Forests    | September 26   | [Lab 4 Materials](labs/lab4/) |
-| ...        | ...                           | ...            | ...                |
-
 Lab instructions and the required datasets can be found in the [labs](labs/) directory. Submit completed labs via Blackboard by the due dates specified.
 
 ---
