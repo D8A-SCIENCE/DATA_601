@@ -95,7 +95,7 @@ Detailed project guidelines and rubrics are available in the [final-project](fin
 
 - **Blackboard**: [Course Page](https://blackboard.wm.edu/ultra/courses/_32038_1/outline)
 - **Piazza for Q&A**: [Piazza Link](https://piazza.com/wm/fall2024/data601/home)
-- **SciClone Account Registration**: [HPC Access]([https://hpc.wm.edu/acctreq/](https://d8a-science.github.io/hpc-gitbook/logging-in-and-setting-up-your-hpc-account/create.html)
+- **SciClone Account Registration**: [HPC Access](https://d8a-science.github.io/hpc-gitbook/logging-in-and-setting-up-your-hpc-account/create.html)
 
 ---
 
